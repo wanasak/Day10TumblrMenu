@@ -1,0 +1,3 @@
+rootProject.name = 'Day10TumblrMenu'
+
+include ':app'
